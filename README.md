@@ -1,2 +1,4 @@
 # google-cloud.ui
-Whatsapp user interface created using html and css 
+google cloud ui configurations 
+bash scripts 
+powershell scripts 
