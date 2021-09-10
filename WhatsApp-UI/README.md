@@ -1,0 +1,1 @@
+* a mandatory file for git confuguration * 
